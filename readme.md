@@ -7,3 +7,5 @@ This is an Express application that serves a React app in the `public` folder. T
 The backend has access to a CSV file (of data that was generated with a random number generator).
 
 The user of the frontend can select columns from the CSV file.
+
+The app will be deployed on railway.
