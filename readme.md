@@ -9,3 +9,5 @@ The backend has access to a CSV file (of data that was generated with a random n
 The user of the frontend can select columns from the CSV file.
 
 The app will be deployed on railway.
+
+New deploy.
