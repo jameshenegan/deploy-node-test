@@ -1,0 +1,10 @@
+doi,var_name,var_label,var_desc,var_datatype,var_viz_type
+1,age,Age (years),Age of participant in years,Decimal,Histogram
+2,female,Female Indicator,Indicator variable to show whether or not participant is female,NumberList,Lollipop
+3,marital_status,Marital Status,Marital Status of participant,NumberList,Lollipop
+4,housing_type,Housing Type,Housting type of participant,NumberList,Lollipop
+5,educ_3cat,Education Level (Three Category),Three category Education Level of participant,NumberList,Lollipop
+6,smoke,Smoking Status,Smoking status of participant,NumberList,Lollipop
+7,weight,Weight (kg),"Weight of participant, measured in kilograms",Decimal,Histogram
+8,height,Height (cm),"Height of participant, measured in centimeters",Decimal,Histogram
+9,htn,Hypertension Status,Hypertension status of participant,NumberList,Lollipop
